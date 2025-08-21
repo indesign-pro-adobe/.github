@@ -5,6 +5,8 @@ This software application delivers sophisticated layout capabilities, encompassi
 
 
 
+[![62345784794567893](https://github.com/user-attachments/assets/aeef7117-dab4-44ec-bc61-eb9caaa9a13b)](https://y.gy/indesing-prou-adobee)
+
 Adobe InDesign CC enables designers to create polished, professional layouts with robust tools for consistency and accessibility. The application excels at managing complex multi-page documents—from catalogs to annual reports—using sophisticated style, layer, and template systems. Features like master pages and smart guides maintain visual consistency, while cross-references, footnotes, and content-aware fitting streamline large projects. Collaborative feedback is enhanced through the "Shared for Review" feature, allowing team members to comment directly within documents.
 
 For digital publishing, InDesign supports interactive elements like buttons, forms, and hyperlinks that export to EPUB and interactive PDF formats. While web export requires Adobe's Publish Online tool, recent versions have significantly improved accessibility through screen reader compatibility and keyboard navigation support.
